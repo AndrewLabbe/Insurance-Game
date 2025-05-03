@@ -12,7 +12,7 @@
 - **Key Features:**
   - Open-world exploration
   - Claim investigation mechanics
-  - Interactive phone and UI systems
+  - Interactive IPad and UI systems
   - MongoDB-based save state and policy storage
   - Multiple narrative paths and endings
 
@@ -22,7 +22,7 @@
 
 This repository contains:
 
-- `ClaimCraft.unitypackage`: The Unity package file containing all scripts, assets, scenes, and prefabs necessary to import the ClaimCraft project into your Unity environment.
+- `Insurance Game Source.unitypackage`: The Unity package file containing all scripts, assets, scenes, and prefabs necessary to import the ClaimCraft project into your Unity environment.
 
 ---
 
@@ -31,18 +31,18 @@ This repository contains:
 To run ClaimCraft in Unity:
 
 1. **Download the Unity Package**
-   - Click on the `ClaimCraft.unitypackage` file above and download it to your local machine.
+   - Click on the `Insurance Game Source.unitypackage` file above and download it to your local machine.
 
 2. **Open or Create a Unity Project**
    - Use Unity Hub to open an existing project or create a new one (Unity 2021.3 LTS or later recommended).
 
 3. **Import the Package**
    - In Unity, go to `Assets > Import Package > Custom Package…`
-   - Select the downloaded `ClaimCraft.unitypackage` file.
+   - Select the downloaded `Insurance Game Source.unitypackage` file.
    - Click **Import** in the dialog that appears to bring in all necessary files.
 
 4. **Start the Game**
-   - Open the `MainScene` (or designated entry scene) from the `Scenes` folder.
+   - Open the `Game` scene (or designated entry scene) from the `Scenes` folder.
    - Click **Play** to begin exploring the ClaimCraft experience.
 
 ---
@@ -50,7 +50,6 @@ To run ClaimCraft in Unity:
 ## ⚙️ Requirements
 
 - Unity Editor (version 2021.3 LTS or later)
-- MongoDB (if using the full data persistence features)
 - Windows 10 or higher (recommended)
 
 ---
@@ -60,7 +59,7 @@ To run ClaimCraft in Unity:
 For support, feature requests, or to contribute:
 
 **Andrew Labbe**  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com) | [Email](mailto:your-email@example.com)
+[Email](labbeandrew3141@gmail.com)
 
 ---
 
